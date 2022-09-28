@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="work:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/work_jar</output-path>
+    <root id="archive" name="work.jar">
+      <element id="module-output" name="work" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Printer Utility/Printer Utility/libs/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Printer Utility/Printer Utility/libs/pdfbox-2.0.26.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
